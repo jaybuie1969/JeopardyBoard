@@ -13,6 +13,6 @@ My nine-year-old son had to do a Jeopardy board for his math class.  Since the o
 
 * The Daily Double's position is randomly determined.  It will be somewhere in the bottom three rows of the board.
 
-* The team can decide how much they want to wager on the daily double - in accordance to the rules of the game on TV.
+* The team can decide how much they want to wager on the Daily Double - in accordance to the rules of the game on TV.
 
 Reading the original template, it is obvious that it was developed by at least two different interns (or teams of interns), and then not improved any more than that.
