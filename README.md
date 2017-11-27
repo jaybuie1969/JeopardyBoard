@@ -5,7 +5,7 @@ My nine-year-old son had to do a Jeopardy board for his math class.  Since the o
 
 * A sixth column was added to make it the same width as the board on TV
 
-* An object was created at the top of the JavaScript <script> section to hold the clues and responses.  This makes it easier for someone to modify than going into the HTML for the board's <TABLE>
+* An object was created at the top of the JavaScript &lt;script&gt; section to hold the clues and responses.  This makes it easier for someone to modify than going into the HTML for the board's &lt;table&gt; element
 
 * A clue's score can only be applied ONCE (either adding or taking away).  The old template allowed a score to be added and subtracted to any or all teams.
 
